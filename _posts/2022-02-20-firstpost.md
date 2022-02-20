@@ -16,4 +16,4 @@ tags: [books, test]
 
 ![alt text](/assets/img/firstpost/sacramento_monroe_west_1939.png)
 
-![alt text](/assets/img/firstpost/sacramento_monroe_west_2021.png)
+![alt text](/assets/img/firstpost/sacramento_monroe_west_2018.png)
